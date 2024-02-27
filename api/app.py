@@ -1229,11 +1229,11 @@ version="1.0">
 def get_full(rank, percent, delay, name,country, position):
   endl="th"
 
-  if position=1:
+  if position==1:
     endl="st"
-  elif position=2:
+  elif position==2:
     endl="nd"
-  elif position=3:
+  elif position==3:
     endl="rd"
   
 
