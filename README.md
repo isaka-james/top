@@ -13,7 +13,7 @@ Toppers Nation is an API-driven web application that generates badges displaying
 - **Real-Time Data**: Utilizes real-time GitHub statistics to provide accurate positioning information.
 
 ### Sample 🦁
-I use this guy as example, [@adamwreuben](https://github.com/adamwreuben) , He is at the first position since like 2010 till now 😒 . He is from Tanzania.
+I use this guy as example, [@adamwreuben](https://github.com/adamwreuben) , He is at the first position since like 2010 till now 😒 , A Tanzanian Guy.
 
   <p style="float: center">
     <a href="https://github.com/isaka-james/top">
