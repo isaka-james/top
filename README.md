@@ -193,6 +193,95 @@ zimbabwe
 
 ```
 
+## Here is some Fun:
+I used the millitary badge from the **USA**, after calculating your position then the badge come automatically.. Here are the sample badges.
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=iamdastani&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=Baltazar-Christian&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=Samweli&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=issyzac&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=bcmmbaga&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=ahmad1284&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=vincent-laizer&country=tanzania" />
+    </a>
+  </p>
+
+Their code:
+```html
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=iamdastani&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=Baltazar-Christian&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=Samweli&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=issyzac&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=bcmmbaga&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=ahmad1284&country=tanzania" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=vincent-laizer&country=tanzania" />
+    </a>
+  </p>
+
+```
 
 ## 🛠️ Technologies Used
 
