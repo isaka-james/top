@@ -1231,7 +1231,7 @@ def get_full(rank, percent, delay, name,country, position):
 
   if position=1:
     endl="st"
-  elif position=1:
+  elif position=2:
     endl="nd"
   elif position=3:
     endl="rd"
