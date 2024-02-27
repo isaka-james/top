@@ -627,7 +627,7 @@ version="1.0">
     <path stroke-width="1px" stroke="#800000" fill="none" d="m34.26219,64.94208l15.269,-4.64924l15.26368,4.645" id="path5534-1-6-3-1"  />
     <path stroke-width="1px" stroke="#800000" fill="none" d="m34.1627,67.04846l15.37322,-4.67758l15.31534,4.65995" id="path5536-4-5-1-8"  />
     <path stroke-width="1px" stroke="#550000" fill="none" d="m34.11964,67.50998l15.41631,-4.69774l15.35947,4.67412l-0.14563,-3.00744l-15.214,-4.63235l-15.27546,4.65295l-0.14069,3.01046z" id="path5049-2-7-1-2-3"  />
-    <path stroke-dashoffset="0" pass stroke-dasharray="3, 1" stroke-miterlimit="4" stroke="#550000" fill="none"  d="m34.1916,66.52203l15.34432,-4.62689l15.30424,4.61533" id="path6057-0" />
+    <path stroke-dashoffset="0" stroke-dasharray="3, 1" stroke-miterlimit="4" stroke="#550000" fill="none"  d="m34.1916,66.52203l15.34432,-4.62689l15.30424,4.61533" id="path6057-0" />
     <path stroke-dashoffset="0" stroke-dasharray="3, 1" stroke-miterlimit="4" stroke="#550000" fill="none"  d="m34.1918,66.00575l15.34413,-4.58635l15.27465,4.56661" id="path6059-3" />
     <path stroke-dashoffset="0" stroke-dasharray="3, 1" stroke-miterlimit="4" stroke="#550000" fill="none"  d="m34.21146,65.48505l15.32446,-4.54139l15.25572,4.52252" id="path6061-7" />
     <path stroke-width="1px" stroke="#550000" fill="none" d="m49.53579,59.84658l0.00016,2.96567" id="path5555-3-2-1-6"  />
