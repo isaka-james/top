@@ -1227,6 +1227,16 @@ version="1.0">
 
 
 def get_full(rank, percent, delay, name,country, position):
+  endl="th"
+
+  if position=1:
+    endl="st"
+  elif position=1:
+    endl="nd"
+  elif position=3:
+    endl="rd"
+  
+
   full_svg=f'''
     <svg
       width="610"
@@ -1265,7 +1275,7 @@ def get_full(rank, percent, delay, name,country, position):
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="8" fill="#000">{name}</text>
           <text x="50%" y="85" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="7" fill="#666">Position in {country}</text>
-          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666"> {position}<tspan font-size="6" dy="-2">th</tspan></text>
+          <text x="50%" y="97" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="bold" font-size="10" fill="#666"> {position}<tspan font-size="6" dy="-2">{endl}</tspan></text>
 
           
     <style>
