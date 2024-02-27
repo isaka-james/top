@@ -1,5 +1,9 @@
 # 🚀 Toppers Nation 🏆
-
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=toppers-nation&label=project%20views&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
+  </p>
+  
 Welcome to Toppers Nation! This project aims to provide badges indicating the position of GitHub users nationwide based on GitHub statistics.
 
 ## ℹ️ About
