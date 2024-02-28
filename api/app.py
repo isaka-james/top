@@ -1533,7 +1533,12 @@ def generate_svg():
         result_server = response.json()
         
         # Extract the "user" list from the JSON data
-        users = result_server.get("user", [])
+      
+        # user => contains the public without contribution
+        # user_public => public with contribution
+        # user_private => private+public without contribution
+      
+        users = result_server.get("user_private", [])
         
         
     else:
