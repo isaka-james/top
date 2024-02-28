@@ -2,6 +2,12 @@
 from flask import make_response, request
 import requests as req
 
+app = Flask(__name__)
+
+# Let lose some memory for a project's sake
+__author__ = "isaka-james & help from vicent-laizer"
+__project_name__ = "toppers-nation"
+__version_project__ = 0.1
 
 
 
