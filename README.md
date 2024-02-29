@@ -1,10 +1,30 @@
-# 🚀 Toppers Nation 🏆
+<p align="center">
+  <h2 align="center">🚀 Toppers Nationwide 🏆</h2>
   
-  <p>
+  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=toppers-nation&label=project%20views&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
   </p>
-  
-Welcome to Toppers Nation! This project aims to provide badges indicating the position of GitHub users nationwide based on GitHub statistics.
+
+<p align="center">
+  Get your badge showing your current nationwide position realtime from GitHub.
+</p>
+
+</p>
+
+# Quick Start
+
+Add the following code to your readme. When pasting the code into your profile's
+readme, change the `?name=` value, and the `&country=` value to your GitHub's username and your country name respectively.
+
+```
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania)](https://github.com/isaka-james/top)
+```
+
+  <p>
+    <a href="https://github.com/isaka-james/top">
+      <img src="https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania" />
+    </a>
+  </p>
 
 ## ℹ️ About
 
@@ -15,9 +35,15 @@ Toppers Nation is an API-driven web application that generates badges displaying
 - **Badge Generation**: Quickly generate badges indicating a user's position in the nation based on GitHub statistics.
 - **User-Friendly Interface**: Simple and intuitive user interface for ease of use.
 - **Real-Time Data**: Utilizes real-time GitHub statistics to provide accurate positioning information.
+- **Fast** : Tested it brings the trophy very fast even in slow internet connections.
 
 ### Sample 🦁
-I use this guy as example, [@adamwreuben](https://github.com/adamwreuben) , He is at the first position since like 2010 till now 😒 , A Tanzanian Guy.
+Let use this guy as example, [@adamwreuben](https://github.com/adamwreuben) , He is at the first position since 2019.
+
+The readme code:
+```bash
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=adamwreuben&country=tanzania)](https://github.com/isaka-james/top)
+```
 
   <p style="float: center">
     <a href="https://github.com/isaka-james/top">
@@ -26,7 +52,7 @@ I use this guy as example, [@adamwreuben](https://github.com/adamwreuben) , He i
   </p>
 
 
-## 📝 How to Use
+## 📝 Furthermore:
 
 To utilize this API, you will need to provide two pieces of information:
 
@@ -34,19 +60,17 @@ To utilize this API, you will need to provide two pieces of information:
   - The name of your country
 
 For example my username🤵‍♂️ is **isaka-james** and my country🇹🇿 is **Tanzania**, so I put this to my README:
-```html
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania" />
-    </a>
-  </p>
+
 ```
-So the output will be like this:
-  <p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania)](https://github.com/isaka-james/top)
+```
+
+So the trophy will come like this:
+<p>
     <a href="https://github.com/isaka-james/top">
       <img src="https://toppers-nation.vercel.app/?name=isaka-james&country=tanzania" />
     </a>
-  </p>
+</p>
   
 
 Please ensure that the name of your country is entered without spaces or uppercase letters. Below is the complete list of countries, each formatted accordingly:
@@ -197,29 +221,29 @@ zimbabwe
 
 ```
 
-## Here is some Fun:
-I used the millitary badge from the **USA**, after calculating your position then the badge come automatically.. Here are the sample badges.
+## Badges which are present rightnow:
+I used the millitary badge from the **USA**, after calculating your position then the badge come automatically.. Here are the sample badges; Also if you see that you can add something then you are warmly welcomed to the contribution:
   <p>
     <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=iamdastani&country=tanzania" />
+      <img src="https://toppers-nation.vercel.app/?name=mig1023&country=russia" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=Baltazar-Christian&country=tanzania" />
+      <img src="https://toppers-nation.vercel.app/?name=dr460nf1r3&country=germany" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=Samweli&country=tanzania" />
+      <img src="https://toppers-nation.vercel.app/?name=gasman&country=uk" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=issyzac&country=tanzania" />
+      <img src="https://toppers-nation.vercel.app/?name=akiomik&country=japan" />
     </a>
   </p>
 
@@ -231,7 +255,7 @@ I used the millitary badge from the **USA**, after calculating your position the
 
   <p>
     <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=ahmad1284&country=tanzania" />
+      <img src="https://toppers-nation.vercel.app/?name=seanpm2001&country=united_states" />
     </a>
   </p>
 
@@ -241,50 +265,21 @@ I used the millitary badge from the **USA**, after calculating your position the
     </a>
   </p>
 
-Their code:
+Their readme code:
 ```html
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=iamdastani&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=iamdastani&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=Baltazar-Christian&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=Baltazar-Christian&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=Samweli&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=Samweli&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=issyzac&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=issyzac&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=bcmmbaga&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=bcmmbaga&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=ahmad1284&country=tanzania" />
-    </a>
-  </p>
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=ahmad1284&country=tanzania)](https://github.com/isaka-james/top)
 
-  <p>
-    <a href="https://github.com/isaka-james/top">
-      <img src="https://toppers-nation.vercel.app/?name=vincent-laizer&country=tanzania" />
-    </a>
-  </p>
-
+[![nation-wide-position](https://toppers-nation.vercel.app/?name=vincent-laizer&country=tanzania)](https://github.com/isaka-james/top)
 ```
 
 ## 🛠️ Technologies Used
