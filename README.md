@@ -74,152 +74,58 @@ So the trophy will come like this:
   
 
 Please ensure that the name of your country is entered without spaces or uppercase letters. Below is the complete list of countries, each formatted accordingly:
-```bash
-afghanistan
-albania
-algeria
-angola
-argentina
-armenia
-australia
-austria
-azerbaijan
-bahrain
-bangladesh
-belarus
-belgium
-benin
-bolivia
-botswana
-brazil
-bulgaria
-burkina_faso
-burundi
-cambodia
-cameroon
-canada
-chad
-chile
-china
-colombia
-congo_brazzaville
-congo_kinshasa
-croatia
-cuba
-cyprus
-czech_republic
-denmark
-dominican_republic
-ecuador
-egypt
-el_salvador
-estonia
-ethiopia
-finland
-france
-gabon
-germany
-ghana
-greece
-guatemala
-guinea
-haiti
-honduras
-hong_kong
-hungary
-india
-indonesia
-iran
-iraq
-ireland
-israel
-italy
-ivory_coast
-japan
-jordan
-kazakhstan
-kenya
-kyrgyzstan
-laos
-latvia
-lebanon
-libya
-lithuania
-luxembourg
-macau
-macedonia
-malawi
-malaysia
-mali
-malta
-mauritania
-mexico
-moldova
-morocco
-mozambique
-myanmar
-nepal
-netherlands
-new_zealand
-nicaragua
-niger
-nigeria
-norway
-oman
-pakistan
-palestine
-panama
-papua_new_guinea
-paraguay
-peru
-philippines
-poland
-portugal
-qatar
-romania
-russia
-rwanda
-saudi_arabia
-senegal
-serbia
-sierra_leone
-singapore
-slovakia
-slovenia
-somalia
-south_africa
-republic_of_korea
-south_sudan
-spain
-sri_lanka
-sudan
-sweden
-switzerland
-syria
-taiwan
-tajikistan
-tanzania
-thailand
-the_bahamas
-togo
-tunisia
-turkey
-turkmenistan
-uae
-uganda
-uk
-ukraine
-united_states
-uruguay
-uzbekistan
-venezuela
-vietnam
-worldwide
-yemen
-zambia
-zimbabwe
 
-```
+| afghanistan      | albania          | algeria        |
+|------------------|------------------|----------------|
+| angola           | argentina        | armenia        |
+| australia        | austria          | azerbaijan     |
+| bahrain          | bangladesh       | belarus        |
+| belgium          | benin            | bolivia        |
+| botswana         | brazil           | bulgaria       |
+| burkina_faso     | burundi          | cambodia       |
+| cameroon         | canada           | chad           |
+| chile            | china            | colombia       |
+| congo_brazzaville| congo_kinshasa   | croatia        |
+| cuba             | cyprus           | czech_republic |
+| denmark          | dominican_republic| ecuador       |
+| egypt            | el_salvador      | estonia        |
+| ethiopia         | finland          | france         |
+| gabon            | germany          | ghana          |
+| greece           | guatemala        | guinea         |
+| haiti            | honduras         | hong_kong      |
+| hungary          | india            | indonesia      |
+| iran             | iraq             | ireland        |
+| israel           | italy            | ivory_coast    |
+| japan            | jordan           | kazakhstan     |
+| kenya            | kyrgyzstan       | laos           |
+| latvia           | lebanon          | libya          |
+| lithuania        | luxembourg       | macau          |
+| macedonia        | malawi           | malaysia       |
+| mali             | malta            | mauritania     |
+| mexico           | moldova          | morocco        |
+| mozambique       | myanmar          | nepal          |
+| netherlands      | new_zealand      | nicaragua      |
+| niger            | nigeria          | norway         |
+| oman             | pakistan         | palestine      |
+| panama           | papua_new_guinea | paraguay       |
+| peru             | philippines      | poland         |
+| portugal         | qatar            | romania        |
+| russia           | rwanda           | saudi_arabia   |
+| senegal          | serbia           | sierra_leone   |
+| singapore        | slovakia         | slovenia       |
+| somalia          | south_africa     | republic_of_korea|
+| south_sudan      | spain            | sri_lanka      |
+| sudan            | sweden           | switzerland    |
+| syria            | taiwan           | tajikistan     |
+| tanzania         | thailand         | the_bahamas    |
+| togo             | tunisia          | turkey         |
+| turkmenistan     | uae              | uganda         |
+| uk               | ukraine          | united_states  |
+| uruguay          | uzbekistan       | venezuela      |
+| vietnam          | worldwide        | yemen          |
+| zambia           | zimbabwe         |                |
+
+
 
 ## Badges which are present rightnow:
 I used the millitary badge from the **USA**, after calculating your position then the badge come automatically.. Here are the sample badges; Also if you see that you can add something then you are warmly welcomed to the contribution:
