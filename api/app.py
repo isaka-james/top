@@ -1517,11 +1517,10 @@ def generate_svg():
         # non-existing country!
         return wrong_inputs()
 
-    if name:
-      pass
-    else:
-      # username was not passed!
-      return wrong_inputs()
+    if not name:
+        # username was not passed!
+        return wrong_inputs()
+
 
 
     # Fetch the json from the server
